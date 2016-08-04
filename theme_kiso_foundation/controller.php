@@ -1,5 +1,5 @@
 <?php 
-namespace Concrete\Package\ThemeStucco;
+namespace Concrete\Package\ThemeKisoFoundation;
 
 use Package;
 use PageTheme;
