@@ -10,7 +10,7 @@ vendor/
 
 ## Theme Specific Just In case
 
-theme_kiso_foundation/theme/kiso_foundation/bower_components
-theme_kiso_foundation/theme/kiso_foundation/node_modules
-theme_kiso_foundation/theme/kiso_foundation/npm-debug.log
-theme_kiso_foundation/theme/kiso_foundation/css
+theme_kiso_foundation/themes/kiso_foundation/bower_components
+theme_kiso_foundation/themes/kiso_foundation/node_modules
+theme_kiso_foundation/themes/kiso_foundation/npm-debug.log
+theme_kiso_foundation/themes/kiso_foundation/css
