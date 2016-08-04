@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<concrete5-cif version="1.0">
+    <themes>
+        <theme handle="kiso_foundation" package="theme_kiso_foundation" activated="1"/>
+    </themes>
+</concrete5-cif>

@@ -1,5 +1,4 @@
 <?php
-
 namespace Concrete\Package\ThemeKisoFoundation\Theme\KisoFoundation;
 
 class PageTheme extends \Concrete\Core\Page\Theme\Theme
