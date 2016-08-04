@@ -36,10 +36,11 @@ You need to install Node.js and Bower.
 
 You need shell program such as bash. Visit http://nodejs.org/ and install npm.
 
-### Install Bower
+### Install Bower & Gulp
 
-Install Bower using the following command.
+Install Bower and Gulp using the following commands if you haven't done so.
 
 ```
 npm install -g bower
+npm install -g gulp
 ```
