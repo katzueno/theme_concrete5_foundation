@@ -27,3 +27,19 @@ npm start
 ```
 
 Gulp will keep running and watching the changes of your SCSS file. Press `ctlr + c` to abort the program.
+
+## Requirement
+
+You need to install Node.js and Bower.
+
+### NPM install
+
+You need shell program such as bash. Visit http://nodejs.org/ and install npm.
+
+### Install Bower
+
+Install Bower using the following command.
+
+```
+npm install -g bower
+```
