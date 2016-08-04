@@ -8,7 +8,7 @@ Some of the file is not included in the repo.
 You must run the following commands to install the rest of files.
 
 ```
-cd /path/to/directory
+cd [path/to/concrete5]/package/theme_kiso_foundation/theme/kiso_foundation/
 npm install
 bower install
 ```
