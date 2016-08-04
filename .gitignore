@@ -1,4 +1,14 @@
+## System Files
+
 .DS_Store
+Thumbs.db
+node_modules/
+.bundle/
+vendor/
+.sass-cache/
+.tmp/
+
+## Theme Specific Just In case
 
 theme_kiso_foundation/theme/kiso_foundation/bower_components
 theme_kiso_foundation/theme/kiso_foundation/node_modules
