@@ -1,5 +1,6 @@
 .DS_Store
-kiso_foundation/theme/kiso_foundation/bower_components
-kiso_foundation/theme/kiso_foundation/node_modules
-kiso_foundation/theme/kiso_foundation/npm-debug.log
-kiso_foundation/theme/kiso_foundation/css
+
+theme_kiso_foundation/theme/kiso_foundation/bower_components
+theme_kiso_foundation/theme/kiso_foundation/node_modules
+theme_kiso_foundation/theme/kiso_foundation/npm-debug.log
+theme_kiso_foundation/theme/kiso_foundation/css
